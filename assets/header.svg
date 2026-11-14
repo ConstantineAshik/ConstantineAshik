@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
+  <title id="title">Md Ashik Miah — Software Developer</title>
+  <desc id="desc">Building useful software for web, Android, and desktop.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101b2d"/><stop offset="1" stop-color="#080e18"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#6ee7b7"/><stop offset="1" stop-color="#67e8f9"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M 40 0 L 0 0 0 40" fill="none" stroke="#92b6cf" stroke-opacity=".07"/></pattern>
+  </defs>
+  <rect width="1280" height="420" rx="20" fill="url(#bg)"/>
+  <rect width="1280" height="420" rx="20" fill="url(#grid)"/>
+  <circle cx="1110" cy="210" r="151" fill="none" stroke="#6ee7b7" stroke-opacity=".14"/>
+  <circle cx="1110" cy="210" r="113" fill="none" stroke="#6ee7b7" stroke-opacity=".2"/>
+  <circle cx="1110" cy="210" r="75" fill="#101f2d" stroke="#6ee7b7" stroke-opacity=".35"/>
+  <path d="m1092 188-23 22 23 22m36-44 23 22-23 22m-12-55-13 66" fill="none" stroke="url(#accent)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="64" y="68" width="30" height="3" rx="1.5" fill="#6ee7b7"/>
+  <text x="108" y="76" fill="#91a6ba" font-family="Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="3">CONSTANTINEASHIK</text>
+  <text x="64" y="170" fill="#f1f5f9" font-family="Segoe UI,Arial,sans-serif" font-size="62" font-weight="700" letter-spacing="-2">Md Ashik Miah</text>
+  <text x="66" y="219" fill="#6ee7b7" font-family="Segoe UI,Arial,sans-serif" font-size="25">Software Developer</text>
+  <text x="66" y="276" fill="#a8b9cb" font-family="Segoe UI,Arial,sans-serif" font-size="22">Building useful software for everyday problems.</text>
+  <text x="66" y="348" fill="#d2dce8" font-family="Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="3">WEB   /   ANDROID   /   DESKTOP</text>
+  <rect x="64" y="386" width="1152" height="2" fill="url(#accent)" opacity=".45"/>
+</svg>
